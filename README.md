@@ -47,9 +47,8 @@ nba-clutch-graph-rag/
 ├── data/           # Play-by-play input data (sample included if allowed)
 ├── notebooks/      # Jupyter notebooks for building graph + queries
 │   └── 01_build_graph.ipynb
-├── src/            # Optional Python scripts (data prep, graph building)
+├── src/            # Python scripts (data prep, graph building)
 ├── docs/           # PDF slides for visualization
-├── assets/         # Screenshots/images for README
 ├── requirements.txt
 └── README.md
 
